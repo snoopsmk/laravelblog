@@ -25,13 +25,15 @@ Generate new aplication key
 php artisan key:generate
 ```
 
+
 After that you need create database and connect it with the app
 
-if error SQLSTATE[HY000] [1045] run:
+If there is error SQLSTATE[HY000] [1045] run:
 ```
 php artisan cache:clear
 php artisan config:cache
 ```
+If not move to the next step
 
 And last link the storage with the public folder
 ```
