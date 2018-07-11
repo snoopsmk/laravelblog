@@ -33,7 +33,6 @@ php artisan key:generate
 php artisan cache:clear
 php artisan config:cache
 ```
-If not move to the next step
 
 - And last link the storage with the public folder
 ```
