@@ -2,7 +2,7 @@
 
 - First clone the app
 ```
-git clone https://github.com/snoopsmk/test.git
+git clone https://github.com/snoopsmk/laravelblog.git
 ```
 
 - Go inside the app
