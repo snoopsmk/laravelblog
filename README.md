@@ -7,7 +7,7 @@ git clone https://github.com/snoopsmk/test.git
 
 - Go inside the app
 ```
-cd test
+cd laravelblog
 ```
 
 - Install all necessary files
