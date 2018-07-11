@@ -29,7 +29,7 @@ php artisan key:generate
 - After that you need create database and connect it with the app
 
 
-- And last link the storage with the public folder
+- And last, link the storage with the public folder
 ```
 php artisan storage:link
 ```
